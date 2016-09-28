@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Product pricing project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jyengk
+Implementation-Vendor-Id: org.sn.gm.pdt.pricing
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/gm-product-p
+ ricing/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

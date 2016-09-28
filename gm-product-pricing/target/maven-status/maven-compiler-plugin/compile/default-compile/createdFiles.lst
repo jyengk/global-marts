@@ -1,0 +1,14 @@
+com\sn\globalmart\price\model\ProductPricingModel.class
+com\sn\globalmart\price\util\ProductPricingDataAssembler.class
+com\sn\globalmart\dao\ProductPricingRepository.class
+com\sn\core\rest\BaseRest.class
+com\sn\globalmart\dao\CustomProductCatalogueRepository.class
+com\sn\globalmart\price\entity\ProductPricingEntity.class
+com\sn\globalmart\price\model\ProductCatalogueModel.class
+com\sn\core\model\ErrorResponseModel.class
+com\sn\globalmart\service\ProductPricingService.class
+com\sn\base\exception\ResourceNotFoundException.class
+com\sn\core\model\BaseModel.class
+com\sn\globalmart\rest\ProductPricingRest.class
+com\sn\application\ProductPricingApplication.class
+com\sn\core\model\ErrorModel.class
